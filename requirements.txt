@@ -1,0 +1,4 @@
+web3
+eth_account
+python-dotenv
+solcx
